@@ -1,4 +1,4 @@
-WHATIS chatbot
+**WHATIS chatbot**
 
 This chatbot has been named has Whatis chatbot as it takes the user's question and answers the question using wikipedia.
 This chatbot has been developed by Akkshaj Pathak(akkshajpathak@gmail.com)
