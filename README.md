@@ -9,8 +9,6 @@ How to use ?
 
 To use this chatbot, the following command should be used:
 
-  '''
   Whatis <User's query>
-  '''
   
 For example : Whatis India?
